@@ -38,7 +38,7 @@ namespace Proyecto_EAGLE_SPORTS
             // 
             this.button1.Location = new System.Drawing.Point(194, 104);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(283, 144);
+            this.button1.Size = new System.Drawing.Size(218, 93);
             this.button1.TabIndex = 0;
             this.button1.Text = "Registrar";
             this.button1.UseVisualStyleBackColor = true;
@@ -54,6 +54,10 @@ namespace Proyecto_EAGLE_SPORTS
             // 
             // button2
             // 
+            this.button2.Location = new System.Drawing.Point(194, 272);
+            this.button2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(311, 73);
             this.button2.Location = new System.Drawing.Point(272, 308);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);

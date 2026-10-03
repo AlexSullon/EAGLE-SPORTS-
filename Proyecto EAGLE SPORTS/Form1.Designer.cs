@@ -48,7 +48,7 @@ namespace Proyecto_EAGLE_SPORTS
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(279, 52);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(85, 13);
+            this.label1.Size = new System.Drawing.Size(98, 15);
             this.label1.TabIndex = 1;
             this.label1.Text = "Creando la repo ";
             // 
@@ -58,6 +58,9 @@ namespace Proyecto_EAGLE_SPORTS
             this.button2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(311, 73);
+            this.button2.Location = new System.Drawing.Point(272, 308);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 2;
             this.button2.Text = "button2";
             this.button2.UseVisualStyleBackColor = true;
